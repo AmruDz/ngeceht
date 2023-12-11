@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977709607638",
+    "project_id": "ngeceht-36207",
+    "storage_bucket": "ngeceht-36207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977709607638:android:f7ac885acfab06e6e6f777",
+        "android_client_info": {
+          "package_name": "com.example.ngeceht"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXkY5EXWbALMfe_G60QJ-ZQwBgN0qFm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

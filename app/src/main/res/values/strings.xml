@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ngeceht</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">DAFTAR</string>
+    <string name="name">Username</string>
+    <string name="confirmPassword">Konfirmasi Password</string>
+    <string name="logout">LOGOUT</string>
+    <string name="user_target">Pilih User Untuk Memulai Chat</string>
+    <string name="messaging_type">Ketik Pesan...</string>
+</resources>
